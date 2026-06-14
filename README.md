@@ -4,6 +4,10 @@
 
 ---
 
+> [!CAUTION]
+> This project is currently unmaintained. <br />
+> I expect to start working on it again but switching to it java for broader support.
+
 ## What is Lumina?
 
 Lumina is a coroutine-first logging library for Kotlin.  
